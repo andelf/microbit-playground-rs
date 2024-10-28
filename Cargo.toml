@@ -1,5 +1,5 @@
 [package]
-name = "microbit-playground-rs"
+name = "microbit_playground"
 version = "0.1.0"
 edition = "2021"
 
